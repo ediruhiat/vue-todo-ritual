@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "message": "Learn Python",
+      "date": "March 10 2021",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "message": "Learn MVC",
+      "date": "March 12 2021",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "message": "Learn Vue.js",
+      "date": "March 13 2021",
+      "reminder": false
+    }
+  ]
+}
