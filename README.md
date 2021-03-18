@@ -1,6 +1,6 @@
 # vue-todo-ritual
 
-Just a simple ritual when learning frontend framework, yeah making a todo list. It is uses basic Vue.js technicues, it doesn't use state management.
+Just a simple ritual when learning frontend framework, yeah making a todo list. It is uses basic Vue.js techniques, it doesn't use state management.
 
 For API Call(s) it's uses [json-server](https://github.com/typicode/json-server) by typicode.
 
